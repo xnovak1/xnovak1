@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @xnovak1
 - 🎓 I study Software Engineering at Masaryk University (CZ)
-- 👀 I’m interested in web development
-- ⚡ My hobbies: climbing, reading, videogames, chess
+- 👀 I’m interested in web development, AI, modern technology
+- ⚡ My hobbies: climbing, BJJ, reading, videogames, chess
